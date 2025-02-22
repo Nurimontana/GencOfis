@@ -49,14 +49,12 @@ Gençofis is a registration application used by the Muğla Youth and Sports Offi
 
 ## Screenshots
 
-- Home Page: `home-page.png`
-- Registration Screen: `registration-screen.png`
-- Admin Panel:
-  - Reports Page: `admin-reports-page.png`
-  - Students Page: `admin-students-page.png`
-  - Courses Page: `admin-courses-page.png`
-  - Activities Page: `admin-activities-page.png`
-  - Filter Page: `admin-filter-page.png`
+![Home Page](screenshots/home-page.png)
+![Registration Screen](screenshots/registration-screen.png)
+![Students Page](screenshots/admin-panel/students-page.png)
+![Courses Page](screenshots/admin-panel/courses-page.png)
+![Filtering Page](screenshots/admin-panel/filter-page.png)
+![Reports Page](screenshots/admin-panel/reports-page.png)
 
 ## Installation
 
